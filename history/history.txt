@@ -1,0 +1,17 @@
+[31-07-2026 13:53:41]  Added Expense           |  ID: 1  |  Food  |  $50.00  |  "Burger"
+[31-07-2026 13:53:45]  Viewed All Expenses     |  
+[31-07-2026 13:56:34]  Viewed All Expenses     |  
+[31-07-2026 13:57:17]  Edited Expense          |  ID: 1  |  Food  |  $90.00  |  "Pizza"
+[31-07-2026 13:58:29]  Added Expense           |  ID: 2  |  Shopping  |  $500.00  |  "Myntra"
+[31-07-2026 13:58:33]  Viewed All Expenses     |  
+[31-07-2026 13:58:44]  Deleted Expense         |  ID: 2
+[31-07-2026 13:59:55]  Searched by Keyword     |  Keyword: "Pizza"
+[31-07-2026 14:00:48]  Viewed Spending Stats   |  
+[31-07-2026 14:02:30]  Added Expense           |  ID: 3  |  Travel  |  $500.00  |  "Delhi"
+[31-07-2026 14:02:41]  Set Monthly Budget      |  Limit: $100.00
+[31-07-2026 14:04:13]  Viewed All Expenses     |  
+[31-07-2026 14:05:03]  Viewed All Expenses     |  
+[31-07-2026 14:05:12]  Deleted Expense         |  ID: 3
+[31-07-2026 14:06:58]  Generated Bar Chart     |  Saved to: C:\Users\sanja\OneDrive\Documents\AI Learning\Python-Projects\02-Expense-Tracker-Pro\charts\category_bar.png
+[31-07-2026 14:07:24]  Generated Pie Chart     |  Saved to: C:\Users\sanja\OneDrive\Documents\AI Learning\Python-Projects\02-Expense-Tracker-Pro\charts\category_pie.png
+[31-07-2026 14:07:35]  App Exited              |  User exited the application

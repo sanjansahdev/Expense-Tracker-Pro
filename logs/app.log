@@ -1,0 +1,9 @@
+2026-07-31 13:53:41,483 - INFO - Added expense ID 1: $50.00 [Food]
+2026-07-31 13:57:17,135 - INFO - Updated expense ID 1: $90.00 [Food]
+2026-07-31 13:58:29,330 - INFO - Added expense ID 2: $500.00 [Shopping]
+2026-07-31 13:58:44,705 - INFO - Deleted expense ID 2
+2026-07-31 14:02:30,269 - INFO - Added expense ID 3: $500.00 [Travel]
+2026-07-31 14:02:41,198 - INFO - Monthly budget set to $100.00
+2026-07-31 14:05:12,645 - INFO - Deleted expense ID 3
+2026-07-31 14:06:58,198 - INFO - Generated bar chart at C:\Users\sanja\OneDrive\Documents\AI Learning\Python-Projects\02-Expense-Tracker-Pro\charts\category_bar.png
+2026-07-31 14:07:24,420 - INFO - Generated pie chart at C:\Users\sanja\OneDrive\Documents\AI Learning\Python-Projects\02-Expense-Tracker-Pro\charts\category_pie.png
